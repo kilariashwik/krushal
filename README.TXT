@@ -10,7 +10,7 @@ CONCLUSION:
 • No google logics were used while writing program
 Inovacation and the rules of krushal alogrithum
 • From the given question Our main theme is to find out the  minimum cost value
-For example:when the input is given abcdef the output should be defabc
+
 
 
 
